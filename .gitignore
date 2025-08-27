@@ -1,0 +1,18 @@
+# system
+.DS_Store
+Thumbs.db
+
+# logs
+logs/
+*.log
+
+# env
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# node modules (if any)
+node_modules/
+
